@@ -11,11 +11,12 @@ Get exposure to a few tools commonly used by web developers
   * View and Change the DOM
     * Add an element
     * Delete an element
-    * change text
+    * Add attribute to element
+    * Change text
 
   * View and Change Page Styles
-    * change color, font, font-size
-    * change margin, padding, alignment
+    * Change color, font, font-size
+    * Change margin, padding, alignment
 
   * Mobile Simulator
 
@@ -30,7 +31,7 @@ Get exposure to a few tools commonly used by web developers
 ## Command Line Basics (10 mins)
   * Why?
   * Windows & iOS (linux)
-  * open terminal or command prompt/powershell
+  * Open terminal or command prompt/powershell
   * Navigate file system (ls, pwd, mkdir, cd, touch) and deleting files and directories
   * TODO: windows equivalents
     
