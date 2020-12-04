@@ -9,7 +9,15 @@ Get exposure to a few tools commonly used by web developers
   * Short review: HTML CSS JS
   * What is the DOM?
   * View and Change the DOM
+    * Add an element
+    * Delete an element
+    * change text
+
   * View and Change Page Styles
+    * change color, font, font-size
+    * change margin, padding, alignment
+
+  * Mobile Simulator
 
 ## Console (20 mins)
   * Why?
@@ -17,7 +25,7 @@ Get exposure to a few tools commonly used by web developers
   * alert()
   * confirm()
   * prompt()
-  * Write a short program (Guessing number game with two players)
+  * Breakpoints
 
 ## Command Line Basics (10 mins)
   * Why?
