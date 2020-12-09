@@ -11,7 +11,7 @@ Get exposure to a few tools commonly used by web developers
       for experimentation, debugging, and testing. Debugging - defects and "bugs" are terms
       used interchangably to describe something isn't working or behaving the way is it expected to.
       By "debugging", a developer is doing the investigative work to figure out 
-      what (and where) the problem is while the program is runnin g.
+      what (and where) the problem is while the program is running.
   * Short review: HTML CSS JS
       There are three languages often used in building a webpage: 
       - HTML: HyperText Markup Language - For the structure and raw content of the page 
@@ -36,7 +36,7 @@ Get exposure to a few tools commonly used by web developers
         Edit as HTML
     * Delete element
         Notice when you refresh, it reloads. All the changes you've made in the DOM have been wiped.
-    * Add attribute to element
+    * Add attribute to element - example
     * Select an element in the page to inspect it
         Helpful for when the structure involves heavily nested elements
 
@@ -53,7 +53,8 @@ Get exposure to a few tools commonly used by web developers
   * alert()
   * confirm()
   * prompt()
-  * Breakpoints
+  * Breakpoints 
+  * Hack the game (mention js basics, read and break down a couple lines. eg.variable)
 
 ## Command Line Basics (10 mins)
   * Why?
