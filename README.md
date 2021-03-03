@@ -48,7 +48,7 @@ Get exposure to a few tools commonly used by web developers
 
 ## Console (20 mins)
   * Why?
-      When a website is running javascript, it is helpful to have a way to understand parts of the code that have fun or to confirm a result by outputting data. In the Console, plain javascript can be run.
+      When a website is running javascript, it is helpful to have a way to understand parts of the code in a function or to confirm a result by outputting data. In the Console tab, plain javascript can be run.
   * Console (e.g.: log(), warn(), error())
   * alert()
   * confirm()
