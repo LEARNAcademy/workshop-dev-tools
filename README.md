@@ -56,6 +56,10 @@ Get exposure to a few tools commonly used by web developers
   * Breakpoints 
   * Hack the game (mention js basics, read and break down a couple lines. eg.variable)
 
+## Debugger (5 mins)
+  * Why? 
+      Sometimes you'll want to get an even closer look at what's happening within your code (without having to use breakpoints)
+
 ## Command Line Basics (10 mins)
   * Why?
       Sometimes it's often easier to do things in terminal especially when things need to happen multiple times but also it's nice to have minimize the number of windows that need to be open as you navigate through files.
